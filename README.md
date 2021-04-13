@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/v8techit/Module5/_apis/build/status/v8techit.calculator?branchName=master)](https://dev.azure.com/v8techit/Module5/_build/latest?definitionId=8&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
